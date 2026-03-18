@@ -1,4 +1,4 @@
-# 📊 Global M&A Deal Analysis Dashboard (2015–2028)
+<img width="1392" height="900" alt="image" src="https://github.com/user-attachments/assets/2bc70d6f-e1a3-4084-bf50-d9225bcc7a2c" /># 📊 Global M&A Deal Analysis Dashboard (2015–2028)
 
 ## 🔍 Project Overview
 
@@ -70,9 +70,8 @@ This project is an end-to-end data analysis and visualization workflow using syn
 ---
 
 ## 📷 Dashboard Preview
+<img width="696" height="450" alt="M A_Dashboard" src="https://github.com/user-attachments/assets/80b034cf-f715-43da-a11e-4f1984742fbe" />
 
-
-<img width="697" height="450" alt="M A_Dashboard" src="https://github.com/user-attachments/assets/171494e5-0df2-4c5d-87a2-9b3a2178ebb9" />
 
 ---
 
