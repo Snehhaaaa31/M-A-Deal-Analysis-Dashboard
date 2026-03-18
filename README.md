@@ -71,9 +71,10 @@ This project is an end-to-end data analysis and visualization workflow using syn
 
 ## 📷 Dashboard Preview
 <img width="696" height="450" alt="M A_Dashboard" src="https://github.com/user-attachments/assets/80b034cf-f715-43da-a11e-4f1984742fbe" />
-
-
 ---
+## 🌐 Live Dashboard
+[View Interactive Dashboard]
+https://public.tableau.com/shared/52SR9X7N8?:display_count=n&:origin=viz_share_link
 
 ## 🚀 How to Use
 
